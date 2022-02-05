@@ -40,16 +40,18 @@
 
 ---
 
-### Checkout my Games 
-#### No artistic skills :(
-
-<!-- ITCH:START -->
+<details>
+  <summary>:zap: Checkout my Games </summary>
+  
+<!--START_SECTION:activity-->
 - [Dawn of Chaos](https://leofiremage.itch.io/dawn-of-chaos)
 - [Kitchen Dash](https://leofiremage.itch.io/kitchen-dash)
 - [The Mage's Adventure](https://leofiremage.itch.io/the-mages-adventure)
 - [Life on the Edge](https://leofiremage.itch.io/life-on-the-edge)
 - [The Witch's Loop](https://leofiremage.itch.io/the-witchs-loop)
-<!-- ITCH:END -->
+<!--END_SECTION:activity-->
+
+</details>
 
 <br/>
 <br/>
