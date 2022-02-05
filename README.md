@@ -12,6 +12,7 @@
 
 [<img align="left" alt="https://leofiremage.itch.io/" width="22px" src="https://itch.io/favicon.ico" />][website]
 [<img align="left" alt="Amal Saju Kalarickal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Killua | Steam" width="22px" src="https://steamcommunity.com/favicon.ico" />][steam]
 
 <br />
 
@@ -58,4 +59,5 @@
 
 [website]: https://leofiremage.itch.io/
 [linkedin]: https://www.linkedin.com/in/amal-saju-077023210/
+[steam]: https://steamcommunity.com/profiles/76561198360007579
 
