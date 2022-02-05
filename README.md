@@ -34,7 +34,25 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="PHP" width="26px" src="https://www.php.net/favicon.ico" />
 <img align="left" alt="CodeIgniter" width="26px" src="https://codeigniter.net/favicons/favicon-32x32.png" />
-<br>
+
+<br/>
+<br/>
+
+---
+
+### Checkout my Games 
+#### No artistic skills :(
+
+<!-- ITCH:START -->
+- [Dawn of Chaos](https://leofiremage.itch.io/dawn-of-chaos)
+- [Kitchen Dash](https://leofiremage.itch.io/kitchen-dash)
+- [The Mage's Adventure](https://leofiremage.itch.io/the-mages-adventure)
+- [Life on the Edge](https://leofiremage.itch.io/life-on-the-edge)
+- [The Witch's Loop](https://leofiremage.itch.io/the-witchs-loop)
+<!-- ITCH:END -->
+
+<br/>
+<br/>
 
 [website]: https://leofiremage.itch.io/
 [linkedin]: https://www.linkedin.com/in/amal-saju-077023210/
