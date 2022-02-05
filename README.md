@@ -4,9 +4,9 @@
 #### Also a Crypto Enthusiast
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: Dota 2 is the best game ever :)
-- 🥅 Love making game and participating in game jams
+- 🥅 Loves making games and participating in game jams
 - 🔭 Likes to stay busy and code all the time
+- ⚡ Fun fact: Dota 2 is the best game ever :)
 
 ### Connect with me:
 
