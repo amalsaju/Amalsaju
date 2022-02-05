@@ -1,6 +1,6 @@
 ## Hi there, I'm Amal 👋 
 
-### I'm a Game Dev ( Knows web dev too) !!!
+### I'm a Game Dev ( Knows Web Dev too) !!!
 #### Also a Crypto Enthusiast
 
 - 🌱 I’m currently learning everything 🤣
