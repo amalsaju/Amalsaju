@@ -1,4 +1,4 @@
-## Hi there, I'm Amal - aka [LeoFireMage][website] 👋 
+## Hi there, I'm Amal 👋 
 
 ### I'm a Game Dev ( Knows web dev too) !!!
 #### Also a Crypto Enthusiast
