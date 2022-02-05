@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Unity" tooltip="Unity" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/apple-touch-icon.png?v=3" />]
+[<img align="left" alt="Unity" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/apple-touch-icon.png?v=3" />]
 [<img align="left" alt="Unreal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/150px-UE_Logo_Black_Centered.svg.png" />]
 [<img align="left" alt="Unreal" width="26px" src="https://duckduckgo.com/i/759a5cf7.png" />]
 [<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/72px-Visual_Studio_Icon_2019.svg.png" />]
@@ -29,6 +29,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+
+---
 
 [website]: https://leofiremage.itch.io/
 [linkedin]: https://www.linkedin.com/in/amal-saju-077023210/
