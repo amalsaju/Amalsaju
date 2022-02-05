@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: Dota 2 is the best game ever :)
+- 🥅 Love making game and participating in game jams
+- 🔭 Likes to stay busy and code all the time
 
 ### Connect with me:
 
