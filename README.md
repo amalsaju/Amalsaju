@@ -18,8 +18,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Unity" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/apple-touch-icon.png?v=3" />
+<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/180px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="Unreal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/150px-UE_Logo_Black_Centered.svg.png" />
-<img align="left" alt="Unreal" width="26px" src="https://duckduckgo.com/i/759a5cf7.png" />
+<img align="left" alt="C++" width="26px" src="https://duckduckgo.com/i/759a5cf7.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/72px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
