@@ -4,7 +4,7 @@
 #### Also a Crypto Enthusiast
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: Dota 2 best game ever made :)
+- ⚡ Fun fact: Dota 2 is the best game ever :)
 
 ### Connect with me:
 
