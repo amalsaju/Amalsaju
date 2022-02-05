@@ -1,7 +1,7 @@
 ## Hi there, I'm Amal - aka [LeoFireMage][website] 👋 
 
-### I'm a Game Dev ( Knows web dev!!!)
-#### Also cryto enthusiast
+### I'm a Game Dev ( Knows web dev too) !!!
+#### Also a Crypto Enthusiast
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: Dota 2 best game ever made :)
