@@ -1,7 +1,7 @@
 ## Hi there, I'm Amal 👋 
 
 ### I'm a Game Dev ( Knows Web Dev too) !!!
-#### Also a Crypto Enthusiast
+#### Also a Blockchain Enthusiast
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Loves making games and participating in game jams
