@@ -1,7 +1,12 @@
 ## Hi there, I'm Amal 👋 
 
-### I'm a Game Dev ( Knows Web Dev too) !!!
+### I'm a Game Dev ( Knows Web Dev too and a bit of mobile development ) !!!
 #### Also a Blockchain Enthusiast
+
+- Unity + C# | Unreal + C++     => Game Development
+- Angular | React               => Frontend
+- Node.js + Firebase | MongoDB  => Backend
+- Flutter                       => Mobile Development
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Loves making games and participating in game jams
