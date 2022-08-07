@@ -1,6 +1,6 @@
 ## Hi there, I'm Amal 👋 
 
-### I'm a Game Dev ( Knows Web Dev too and a bit of mobile development ) !!!
+### I'm a Game Dev ( Knows Web Dev and a bit of mobile development too ) !!!
 #### Also a Blockchain Enthusiast
 
 - Unity + C# | Unreal + C++     => Game Development
