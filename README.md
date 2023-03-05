@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://leofiremage.itch.io/" width="22px" src="https://itch.io/favicon.ico" />][website]
-[<img align="left" alt="Amal Saju Kalarickal | LinkedIn" width="22px" src="" />][linkedin]
+[<img align="left" alt="" width="22px" src="" />][linkedin]
 
 <br />
 
