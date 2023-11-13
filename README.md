@@ -1,7 +1,6 @@
 ## Hi there, I'm Amal 👋 
 
-### I'm a Game Dev ( Knows Web Dev and a bit of mobile development too ) !!!
-#### Also a Blockchain Enthusiast
+### I like to code
 
 - Unity + C# | Unreal + C++     => Game Development
 - Angular | React               => Frontend
@@ -10,8 +9,7 @@
 
 - I’m currently learning everything 🤣
 - Loves making games 🥅 and participating in game jams
-- Likes to stay busy and code 🔭 all the time
-- Fun fact: Dota 2 ⚡ is the best game ever :)
+- Dota 2 is ❤️
 
 ### Connect with me:
 
