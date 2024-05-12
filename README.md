@@ -2,10 +2,9 @@
 
 ### I like to code
 
-- Unity + C# | Unreal + C++     => Game Development
-- Angular | React               => Frontend
-- Node.js + Firebase | MongoDB  => Backend
-- Flutter                       => Mobile Development
+- Unity + C#         => Game Development
+- React + Tailwind   => Web Development
+- Electron           => Desktop Development
 
 - I’m currently learning everything 🤣
 - Loves making games 🥅 and participating in game jams
