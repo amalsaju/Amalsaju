@@ -16,7 +16,8 @@
 
 [<img align="left" alt="" width="22px" src="" />][linkedin]
 
-
+<br/>
+<br/>
 
 ### Languages and Tools:
 
