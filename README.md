@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Unity" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/apple-touch-icon.png?v=3" />
+<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/400px-Unity_2021.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/180px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/240px-React_Logo_SVG.svg.png" />
 <img align="left" alt="Tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/400px-Tailwind_CSS_logo.svg.png" />
