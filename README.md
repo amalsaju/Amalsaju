@@ -19,7 +19,7 @@
 
 
 ### Languages and Tools:
-
+<div>
 <img align="left" alt="Unity" width="26px" src="https://unity.com/themes/contrib/unity_base/images/favicons/apple-touch-icon.png?v=3" />
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/180px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -37,11 +37,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="PHP" width="26px" src="https://www.php.net/favicon.ico" />
 <img align="left" alt="CodeIgniter" width="26px" src="https://codeigniter.net/favicons/favicon-32x32.png" />      
-
+</div>
 <br/>
 <br/>
-
----
 
 <details>
   <summary>:zap: Checkout my Games </summary>
