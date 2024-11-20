@@ -2,7 +2,6 @@
 
 ### I like to code
 
-- Unity + C#         => Game Development
 - React + Tailwind   => Web Development
 - Electron           => Desktop Development
 
