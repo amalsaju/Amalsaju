@@ -1,6 +1,6 @@
 ## Hi there, I'm Amal 👋 
 
-### I like to code
+### Software Engineer => loves programming and solving problems
 
 ### Connect with me:
 
