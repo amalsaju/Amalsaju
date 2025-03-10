@@ -2,16 +2,7 @@
 
 ### I like to code
 
-- React + Tailwind   => Web Development
-- Electron           => Desktop Development
-
-- I’m currently learning everything 🤣
-- Loves making games 🥅 and participating in game jams
-- Dota 2 is ❤️
-
 ### Connect with me:
-
-[<img align="left" alt="https://leofiremage.itch.io/" width="22px" src="https://itch.io/favicon.ico" />][website]
 
 [<img align="left" alt="" width="22px" src="" />][linkedin]
 
