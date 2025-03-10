@@ -4,7 +4,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="" />][linkedin]
+<a href="https://www.linkedin.com/in/amal-saju-kalarickal/" target="_blank">LinkedIn</a>
+
 
 <br/>
 <br/>
@@ -19,8 +20,8 @@
 
 
 
-<br/>
-<br/>
+<br />
+<br />
 
 <details>
   <summary>:zap: Checkout my Games </summary>
