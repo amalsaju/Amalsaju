@@ -5,7 +5,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/amal-saju-kalarickal/" target="_blank">LinkedIn</a>
-
+<a href="https://www.amalsaju.com" target="_blank">My Website</a>
 
 <br/>
 <br/>
