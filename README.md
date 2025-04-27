@@ -14,6 +14,7 @@ Just here to build cool stuff and learn along the way!
   <summary>:zap: Checkout my Games </summary>
   
 <!--START_SECTION:activity-->
+- [The Boring Project](https://leofiremage.itch.io/the-boring-project)
 - [Dawn of Chaos](https://leofiremage.itch.io/dawn-of-chaos)
 - [Kitchen Dash](https://leofiremage.itch.io/kitchen-dash)
 - [The Mage's Adventure](https://leofiremage.itch.io/the-mages-adventure)
